@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+}
+
+td{
+    /* border: solid; */
+    width: 33vw;
+    height: 33vh;
+}
+
+body{
+    margin: 0px;
+}
